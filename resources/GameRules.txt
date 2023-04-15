@@ -1,0 +1,14 @@
+
+Your goal, as Decoder, is to crack the secret Code provided by CodeMaster, with the least number of attempts.
+You have a maximum of 12 attempts.
+
+The Code can be made up of any combination of five colors.
+The MasterCode can use two or more equal colors, in different positions.
+
+You have to duplicate the exact colors and positions of the hidden Code.
+
+Type /help to see all the available commands.
+
+Follow the color guide to enter your attempts and receive the feedback from the CodeMaster after every guess.
+
+The server ends when the Decoder guesses the secret Code.
